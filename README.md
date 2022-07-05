@@ -1,1 +1,2 @@
-# webpack-boilerplate
+## webpack-boilerplate
+- Setting up webpack
